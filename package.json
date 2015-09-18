@@ -1,0 +1,25 @@
+{
+  "name": "http-verbs",
+  "version": "1.0.0",
+  "description": "Export http verbs as constants.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigulla/http-verbs.git"
+  },
+  "keywords": [
+    "http",
+    "verb",
+    "request",
+    "method"
+  ],
+  "author": "Raphael Pigulla <pigulla@four66.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/pigulla/http-verbs/issues"
+  },
+  "homepage": "https://github.com/pigulla/http-verbs#readme"
+}
